@@ -1,7 +1,7 @@
 # Thermal Analysis Simulations of a Novel E-Core FSPM Motor
 This repository contains the supplementary materials and numerical simulation files for the research paper: "Heat transfer investigations on a thermally superior alternative for the flux switching permanent magnet electric motor".
 
-# Repository Language: English
+### Repository Language: English
 
 The study presents a new design for a flux-switching permanent magnet (FSPM) motor that significantly enhances thermal performance by relocating the armature windings. This change reduces total power losses from 56.6 W to 39.6 W and mitigates the maximum operating temperature of the windings and permanent magnets (PMs) by 36.4% and 40%, respectively.
 
@@ -29,7 +29,7 @@ If you use the simulation files or refer to the findings in your work, please ci
   doi = {10.1016/j.rineng.2024.103415}
 }
 
-📊 Key Thermal Analysis Results
+### 📊 Key Thermal Analysis Results
 
 The following figures from the numerical study demonstrate the significant thermal improvements of the proposed motor design. The primary advantage comes from modifying the heat transfer paths. By relocating the armature windings (the main heat source) away from the heat-sensitive permanent magnets (PMs), the proposed design allows heat to dissipate more effectively through the stator core and motor casing, leading to a cooler and more efficient motor.
 
@@ -57,7 +57,7 @@ Maximum Winding Temperature: 68.6°C | Maximum PM Temperature: 28.9°C
 | **Rotor Temperature** | **Permanent Magnet Temperature** |
 | ![Rotor Contour Proposed Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Rotor%20Contour%20Proposed%20Motor-1.png) | ![PM Contour Proposed Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/PM%20Contour%20Proposed%20Motor-1.png) |
 
-📂 Repository Contents
+### 📂 Repository Contents
 
 This repository includes:
 
@@ -67,11 +67,11 @@ E-Core FSPM Motor Thermal Analysis.zip: A password-protected archive containing 
 
 Proposed FSPM Motor Thermal Analysis.zip: A password-protected archive containing the complete ANSYS simulation files for the new, thermally superior proposed motor.
 
-💻 Software Requirements
+### 💻 Software Requirements
 
 The numerical simulations were performed using ANSYS Electronics Desktop and ANSYS Fluent. To open and run the project files, you will need access to these software packages.
 
-🔑 How to Access the Simulation Files
+### 🔑 How to Access the Simulation Files
 
 The complete simulation projects, including the model geometry, meshing, material properties, boundary conditions, and solver settings, are available for purchase. This allows you to replicate the study's results, explore the models in detail, and adapt them for your own research.
 
@@ -81,13 +81,13 @@ Contact me directly via email: hamidsharifi32@gmail.com with the subject line "P
 
 Instructions for payment and receiving the password will be provided in the reply.
 
-📝 License
+### 📝 License
 
 The included PDF of the research paper is distributed under the CC BY-NC license.
 
 All rights to the simulation files (.zip archives) are reserved. The purchase of these files grants you a license for personal, educational, or research use. Redistribution or commercial use of the simulation files is strictly prohibited without prior written permission.
 
-📧 Contact
+### 📧 Contact
 
 For any questions about the research, collaboration inquiries, or issues with accessing the files, please contact:
 

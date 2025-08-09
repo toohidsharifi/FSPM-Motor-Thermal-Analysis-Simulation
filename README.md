@@ -15,7 +15,7 @@ DOI: https://doi.org/10.1016/j.rineng.2024.103415
 
 PDF: A copy of the open-access paper is also available in this repository for convenience.
 
-## How to Cite
+### How to Cite
 
 If you use the simulation files or refer to the findings in your work, please cite the original paper:
 
@@ -29,11 +29,11 @@ If you use the simulation files or refer to the findings in your work, please ci
   doi = {10.1016/j.rineng.2024.103415}
 }
 
-### 📊 Key Thermal Analysis Results
+## 📊 Key Thermal Analysis Results
 
 The following figures from the numerical study demonstrate the significant thermal improvements of the proposed motor design. The primary advantage comes from modifying the heat transfer paths. By relocating the armature windings (the main heat source) away from the heat-sensitive permanent magnets (PMs), the proposed design allows heat to dissipate more effectively through the stator core and motor casing, leading to a cooler and more efficient motor.
 
-## Conventional E-Core FSPM Motor (Baseline)
+### Conventional E-Core FSPM Motor (Baseline)
 
 In the conventional design, the armature windings are placed adjacent to the PMs. This proximity creates a direct path for heat to flow from the windings into the magnets, resulting in a significant temperature increase in the PMs, which can degrade their magnetic properties and the motor's performance.
 
@@ -45,7 +45,7 @@ Maximum Winding Temperature: 107.5°C | Maximum PM Temperature: 46.2°C
 | **Rotor Temperature** | **Permanent Magnet Temperature** |
 | ![Rotor Contour FSPM Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Rotor%20Contour%20FSPM%20Motor-1.png) | ![PM Contour FSPM Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/PM%20Contour%20FSPM%20Motor-1.png) |
 
-## Proposed Thermally Superior FSPM Motor
+### Proposed Thermally Superior FSPM Motor
 
 The proposed motor relocates the windings around the middle tooth of the E-core stator. This key change isolates the PMs from the primary heat source. As a result, the generated heat from the windings is channeled through the stator core to the motor's outer casing, a much more efficient path for dissipation. This leads to a dramatic reduction in the operating temperature of both the windings and, most critically, the permanent magnets.
 

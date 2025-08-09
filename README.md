@@ -37,9 +37,9 @@ Maximum Winding Temperature: 107.5°C | Maximum PM Temperature: 46.2°C
 
 | Winding Temperature | Stator Temperature |
 | :---: | :---: |
-| ![Winding Contour FSPM Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/Winding%20Contour%20FSPM%20Motor-1.png) | ![Stator Contour FSPM Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/Stator%20Contour%20FSPM%20Motor-1.png) |
+| ![Winding Contour FSPM Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Winding%20Contour%20FSPM%20Motor-1.png) | ![Stator Contour FSPM Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Stator%20Contour%20FSPM%20Motor-1.png) |
 | **Rotor Temperature** | **Permanent Magnet Temperature** |
-| ![Rotor Contour FSPM Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/Rotor%20Contour%20FSPM%20Motor-1.png) | ![PM Contour FSPM Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/PM%20Contour%20FSPM%20Motor-1.png) |
+| ![Rotor Contour FSPM Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Rotor%20Contour%20FSPM%20Motor-1.png) | ![PM Contour FSPM Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/PM%20Contour%20FSPM%20Motor-1.png) |
 
 Proposed Thermally Superior FSPM Motor
 The proposed motor relocates the windings around the middle tooth of the E-core stator. This key change isolates the PMs from the primary heat source. As a result, the generated heat from the windings is channeled through the stator core to the motor's outer casing, a much more efficient path for dissipation. This leads to a dramatic reduction in the operating temperature of both the windings and, most critically, the permanent magnets.
@@ -48,9 +48,9 @@ Maximum Winding Temperature: 68.6°C | Maximum PM Temperature: 28.9°C
 
 | Winding Temperature | Stator Temperature |
 | :---: | :---: |
-| ![Winding Contour Proposed Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/Winding%20Contour%20Proposed%20Motor-1.png) | ![Stator Contour Proposed Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/Stator%20Contour%20Proposed%20Motor-1.png) |
+| ![Winding Contour Proposed Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Winding%20Contour%20Proposed%20Motor-1.png) | ![Stator Contour Proposed Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Stator%20Contour%20Proposed%20Motor-1.png) |
 | **Rotor Temperature** | **Permanent Magnet Temperature** |
-| ![Rotor Contour Proposed Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/Rotor%20Contour%20Proposed%20Motor-1.png) | ![PM Contour Proposed Motor](https://raw.githubusercontent.com/your-username/your-repo-name/main/images/PM%20Contour%20Proposed%20Motor-1.png) |
+| ![Rotor Contour Proposed Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/Rotor%20Contour%20Proposed%20Motor-1.png) | ![PM Contour Proposed Motor](https://raw.githubusercontent.com/toohidsharifi/FSPM-Motor-Thermal-Analysis-Simulation/main/images/PM%20Contour%20Proposed%20Motor-1.png) |
 
 📂 Repository Contents
 This repository includes:

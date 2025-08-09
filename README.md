@@ -6,6 +6,7 @@ This repository contains the supplementary materials and numerical simulation fi
 The study presents a new design for a flux-switching permanent magnet (FSPM) motor that significantly enhances thermal performance by relocating the armature windings. This change reduces total power losses from 56.6 W to 39.6 W and mitigates the maximum operating temperature of the windings and permanent magnets (PMs) by 36.4% and 40%, respectively.
 
 📜 Publication
+
 The full research paper is open access and can be read and cited from the following sources:
 
 Journal: Results in Engineering, Volume 24, 2024
